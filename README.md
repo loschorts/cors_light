@@ -3,4 +3,4 @@
 
 `npm server https://example.com/api`
 
-direct API make requests to `localhost:3000`
+direct API requests to `localhost:3000`
